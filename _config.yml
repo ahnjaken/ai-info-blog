@@ -6,10 +6,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            AI Weblog
-tagline:          'AI is infomation'
-description:      'AI generated useful infomation blog.'
-url:              https://aiblog.comne.kr
+title:            'shophist's lab'
+tagline:          'life hacking infomation'
+description:      'useful infomation blog.'
+url:              https://sophistlab.tistory.com/ 
 #baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
